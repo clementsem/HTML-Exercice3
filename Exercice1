@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <meta charset="utf-8" />
+            <title>Entraînement au html</title>
+    </head>
+    <body>
+            <h1>Entraînement au html</h1>
+            <p>Premier paragraphe</p>
+    </body>
+</html>
